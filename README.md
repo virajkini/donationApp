@@ -1,1 +1,4 @@
-# donationApp.github.io
+Thankyou loktra for giving a oppurtunity to work on a assignemt. I am currently working in Mphasis Wyde which is a product based company of 300 employees acquired by Mphasis in 2011. I am very passionate in startup and keenly looking to switch working in a startup. Have been to many starup talks and following many groups etc. I am very much aware on how a resource should be for working in a startup.Ultimately my long term dream is to open one.Also liked the concept of Loktra and would be very enthusiatic if i get an oppurtunity for working in Loktra.
+
+I have been learning frontend from a year and half. Have worked little on front end in my company but have done many side projects during my free time. I am very confident on building a front end application with a good knowledge on angualr js.
+
